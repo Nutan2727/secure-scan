@@ -1,0 +1,34 @@
+body {
+    background-color: #f8f9fa;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+.severity-High {
+    color: #dc3545;
+    font-weight: bold;
+}
+
+.severity-Medium {
+    color: #fd7e14;
+    font-weight: bold;
+}
+
+.severity-Low {
+    color: #ffc107;
+    font-weight: bold;
+}
+
+.severity-Critical {
+    color: #6f42c1;
+    font-weight: bold;
+}
+
+.card {
+    border-radius: 8px;
+}
+
