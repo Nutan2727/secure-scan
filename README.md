@@ -1,0 +1,1 @@
+built a project called secure scan which will be web based tool and will scan the websites for their security vulnerabilities and reduct the common treats from them like sql injection,csrf.This project will give the output in terms of reporting dashboard and results(High , Medium , Low ) where all vulnerabilities are ranked accordingly severity
